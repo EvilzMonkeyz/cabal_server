@@ -55,9 +55,9 @@ RUN cabal_create_server 1
 RUN cabal_create_chanel 1 1
 RUN cabal_create_chanel 1 2
 RUN cabal_create_chanel 1 3
-RUN cabal_create_chanel 1 4
-RUN cabal_create_chanel 1 5
-RUN cabal_create_chanel 1 6
-RUN cabal_create_chanel 1 7
+# RUN cabal_create_chanel 1 4
+# RUN cabal_create_chanel 1 5
+# RUN cabal_create_chanel 1 6
+# RUN cabal_create_chanel 1 7
 
 RUN config_db_passwd
