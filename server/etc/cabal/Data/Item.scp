@@ -3565,7 +3565,7 @@
 3440	@IDT_PETN	0	2	2	<null>	<null>	<null>	<null>	<null>	<null>	0	0	44	<null>	<null>	<null>	<null>	<null>	<null>	<null>	<null>	0	0	-19	0	0	7	1	1	1	0	0	<null>
 3441	@IDT_PETN	0	2	2	<null>	<null>	<null>	<null>	<null>	<null>	0	0	45	<null>	<null>	<null>	<null>	<null>	<null>	<null>	<null>	0	0	-19	0	0	7	1	1	1	0	0	<null>
 3442	@IDT_BLBD	0	1	1	<null>	<null>	<null>	<null>	<null>	<null>	60	<null>	<null>	190	<null>	<null>	<null>	<null>	<null>	<null>	<null>	1	0	-19	0	0	1	0	0	1	0	0	<null>
-3443	@IDT_LOTT	0	2	2	0	<null>	0	<null>	0	<null>	400	<null>	<null>	0	<null>	0	0	0	0	0	0	0	0	-19	0	0	1	0	0	1	0	0	<null>
+3443	@IDT_LOTT	0	2	2	0	<null>	0	<null>	0	<null>	406	<null>	<null>	0	<null>	0	0	0	0	0	0	0	0	-19	0	0	1	0	0	1	0	0	<null>
 3444	@IDT_LOTT	0	2	2	0	<null>	0	<null>	0	<null>	400	<null>	<null>	0	<null>	0	0	0	0	0	0	0	0	-19	0	0	1	0	0	1	0	0	<null>
 3445	@IDT_LOTT	0	2	2	0	<null>	0	<null>	0	<null>	400	<null>	<null>	0	<null>	0	0	0	0	0	0	0	0	-19	0	0	1	0	0	1	0	0	<null>
 3446	@IDT_LOTT	0	2	2	0	<null>	0	<null>	0	<null>	400	<null>	<null>	0	<null>	0	0	0	0	0	0	0	0	-19	0	0	1	0	0	1	0	0	<null>
